@@ -3,6 +3,6 @@ import '../App.css'
 
 export default function Hero() {
   return (
-    <div className ='Hero' ></div>
+    <div className ='Fullheight' >Hero</div>
   )
 }
